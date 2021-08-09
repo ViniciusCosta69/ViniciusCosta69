@@ -4,7 +4,7 @@
 
 • 🤖 Cursando: Análise e desnvolvimento de sistemas
 • 🌱 Estudando JavaScript 
-• ⚡ Comecei a estudar programção, por causa do JovemNerd
+• ⚡ Comecei a estudar programação, por causa do JovemNerd
 
 
 <div>
