@@ -2,9 +2,9 @@
 
 
 
-• 🤖 Cursando: Análise e desnvolvimento de sistemas
-• 🌱 Estudando JavaScript 
-• ⚡ Comecei a estudar programação, por causa do JovemNerd
+<p>• 🤖 Cursando: Análise e desnvolvimento de sistemas </p>
+<p>• 🌱 Estudando JavaScript</p>
+<p>• ⚡ Comecei a estudar programação, por causa do JovemNerd</p>
 
 
 <div>
